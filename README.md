@@ -19,6 +19,8 @@ make install
 
 # 🖥️ Usage
 ```sh
-manga
+manga "Oshi No Ko" -c 0-2
 ```
-> If you don't like the binary name change it yourself.
+> Should download and add the manga oshi no ko chapter 1 to 3 to your calibre library.
+> Anything passed to `-c` or `--chapters` get's passed directly to mangal.
+> If you don't like the binary name change it yourself. :)
