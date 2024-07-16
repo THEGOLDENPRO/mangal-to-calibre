@@ -2,5 +2,6 @@ build
 *.egg-info
 koff
 */
+manga
 
 !assets
